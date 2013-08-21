@@ -1,13 +1,13 @@
 <?php
 error_reporting(E_ERROR | E_PARSE | E_CORE_ERROR);
 $dbservertype='mysql';
-$servername='db4free.net:3306'; //db4free.net:3306
-$dbusername='arjunskumar47'; //arjunskumar47
-$dbpassword='arjunsk';
-$dbname='sklove';
+$servername='localhost'; 
+$dbusername='USERNAME'; 
+$dbpassword='PASSWWORD';
+$dbname='DB_NAME';
 $sksitename='Site Name!';
-$sksiteurl='http://localhost/love_1/';
-$site_url="http://localhost/love_1/";
+$sksiteurl='http://siteurl';
+$site_url="http://siteurl";
 $admin_email ="demo@example.com";
 
 
